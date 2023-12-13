@@ -6,7 +6,7 @@ Raw Data from <a href="https://my.wiktionary.org/wiki/%E1%80%97%E1%80%9F%E1%80%A
 
 <strong>#Myanmar POS (Part of Speech) Dictionary</strong>
 
-Labeled Burmese POS Data for Machine Learning. Although it has only about 50K entries, it is more than enough to train POS Tagging and Word Classification with 98% accuracy.
+Labeled Burmese POS Data for Machine Learning. Although it has only about 50K entries, it is more than enough to train and infrence POS Tagging and Word Classification with 98% accuracy.
 
 | Label Name    | Label Id      |
 | ------------- | ------------- |
