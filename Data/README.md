@@ -4,7 +4,7 @@ Raw Data from <a href="https://my.wiktionary.org/wiki/%E1%80%97%E1%80%9F%E1%80%A
 
 #Myanmar POS (Part of Speech) Dictionary
 
-Labeled Burmese POS Data for Machine Learning. Label Clases:
+Labeled Burmese POS Data for Machine Learning.
 
 | Label Name    | Label Id      |
 | ------------- | ------------- |
