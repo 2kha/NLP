@@ -55,7 +55,7 @@ Labeled Burmese POS Data for Machine Learning. Although it has only about 50K en
 
 <strong>#Myanmar Common Phrases</strong>
 
-Commonly occured Myanmar Words/Phrases, which can be used for Spelling Checking or other NLP Tasks. Dataset has more than 2 million phrases. Ad data is collected from Web Crawl, it could possibly include potential biased information.
+Commonly occured Myanmar Words/Phrases, which can be used for Spelling Checking or other NLP Tasks. Dataset has more than 2 million phrases. As data is collected from Common Web Crawl, it could possibly include potential biased information.
 
 | Phrase        | Frequency      |
 | ------------- | ------------- |
