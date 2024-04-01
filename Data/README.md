@@ -50,3 +50,28 @@ Labeled Burmese POS Data for Machine Learning. Although it has only about 50K en
 |Superlative | 96|
 |Idiom | 100|
 |Obscene | 200|
+
+<hr />
+
+<strong>#Myanmar Common Phrases</strong>
+
+Commonly occured Myanmar Words/Phrases, which can be used for Spelling Checking or other NLP Tasks. Data is collected from Web Crawl, and so, it could possibly include some biased information.
+
+| Phrase        | Frequency      |
+| ------------- | ------------- |
+|ကက်ရှ်|	1|
+|ကဂ်|	1|
+|ကင်းစ်|	3|
+|ကင်န်|	1|
+|ကစ်ချ်|	1|
+|ကဉ်|	1|
+|ကဒ်|	67|
+|ကန့်တ်|	1|
+|ကပ်စ်|	1|
+|ကယ်လ်|	2|
+|ကျံ့|	1|
+|ကျွံ|	10|
+|ကျွက်|	4|
+|ကျွတ်|	28|
+|ကျွန်ုပ်|	491|
+|...|...|
